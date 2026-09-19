@@ -40,5 +40,5 @@ to provide marketing recommendations for Bellabeat.
 ## Project Files
 
 - [Jupyter Notebook](bellabeat_process.ipynb) — full cleaning and analysis workflow
-- [Presentation](Bellabeat_Case_Study_Presentation.pdf) — final stakeholder presentation
+- [Presentation](bellabeat_case_study_presentation.pdf) — final stakeholder presentation
 - [Dashboard](bellabeat_dashboard.png) — Tableau dashboard used to summarise findings
