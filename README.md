@@ -35,7 +35,7 @@ to provide marketing recommendations for Bellabeat.
 
 ## Dashboard
 
-![Bellabeat Dashboard](Bellabeat Case Study.png)
+![Bellabeat Dashboard](bellabeat_dashboard.png)
 
 ## Project Files
 
